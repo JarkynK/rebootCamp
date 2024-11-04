@@ -1,0 +1,76 @@
+[INFO ] 2020-03-05 19:46:34.541 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-05 19:46:43.695 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-05 19:46:43.762 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-05 19:46:44.422 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-05 19:46:44.450 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-05 19:46:44.450 [main] Log - Comparing two data
+[INFO ] 2020-03-05 20:59:01.001 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-05 20:59:12.354 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-05 20:59:12.461 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-05 20:59:13.646 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-05 20:59:13.711 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-05 20:59:13.712 [main] Log - Comparing two data
+[INFO ] 2020-03-05 21:00:23.217 [main] Log - Scenario start point: Wikipedia Search Functionality Title Verification
+[INFO ] 2020-03-05 21:00:30.357 [main] Log - Scenario start point: Wikipedia Search Functionality Header Verification
+[INFO ] 2020-03-05 21:00:35.351 [main] Log - Scenario start point: Wikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-05 21:00:39.230 [main] Log - Scenario start point: Wikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-05 21:00:43.616 [main] Log - Scenario start point: Wikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-05 21:00:47.396 [main] Log - Scenario start point: Wikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-05 21:00:52.353 [main] Log - Scenario start point: Wikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-05 21:00:56.231 [main] Log - Scenario start point: Wikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-05 21:03:56.451 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-05 21:04:01.788 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-05 21:04:01.866 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-05 21:04:02.689 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-05 21:04:02.708 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-05 21:04:02.708 [main] Log - Comparing two data
+[INFO ] 2020-03-07 12:22:56.724 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-07 12:23:02.172 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-07 12:23:02.220 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-07 12:23:03.067 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-07 12:23:03.084 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-07 12:23:03.084 [main] Log - Comparing two data
+[INFO ] 2020-03-07 13:57:45.358 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-07 13:57:49.226 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-07 13:57:49.253 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-07 13:57:50.116 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-07 13:57:50.135 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-07 13:57:50.136 [main] Log - Comparing two data
+[INFO ] 2020-03-07 14:21:22.378 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-07 14:21:26.080 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-07 14:21:26.152 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-07 14:21:27.043 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-07 14:21:27.062 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-07 14:21:27.062 [main] Log - Comparing two data
+[INFO ] 2020-03-07 14:24:50.458 [main] Log - Scenario start point: Google title verification
+[INFO ] 2020-03-07 14:42:54.440 [main] Log - Scenario start point: Header comparison
+[INFO ] 2020-03-07 14:42:57.991 [main] Log - user on: https://dzone.com/articles/gradle-vs-maven
+[INFO ] 2020-03-07 14:42:58.054 [main] Log - header taken: Gradle vs. Maven
+[INFO ] 2020-03-07 14:42:58.773 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
+[INFO ] 2020-03-07 14:42:58.798 [main] Log - header 2 is taken: API Security Weekly: Issue #71
+[WARN ] 2020-03-07 14:42:58.799 [main] Log - Comparing two data
+[INFO ] 2020-03-07 16:23:48.960 [main] Log - Scenario start point: Google title verification
+[INFO ] 2020-03-21 16:54:48.268 [main] Log - Scenario start point: Positive teacher deleting
+[INFO ] 2020-03-21 16:56:52.055 [main] Log - Scenario start point: Positive teacher deleting
+[INFO ] 2020-03-21 17:04:58.156 [main] Log - Scenario start point: Positive teacher deleting
+[INFO ] 2020-03-22 12:49:37.732 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 12:53:12.654 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 13:03:58.183 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 13:11:20.200 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 13:14:50.718 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 13:14:59.644 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 13:18:15.807 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 13:18:25.174 [main] Log - Scenario start point: UI vs API cross data validation
+[INFO ] 2020-03-22 16:39:43.792 [main] Log - Scenario start point: UI vs API cross data validation with name
+[INFO ] 2020-03-22 16:47:19.005 [main] Log - Scenario start point: UI vs API cross data validation with name
+[INFO ] 2020-03-22 16:55:20.202 [main] Log - Scenario start point: UI vs API cross data validation with name
+[INFO ] 2020-03-25 19:10:16.814 [main] Log - Scenario start point: Getting list of Students by Batch Number
+[INFO ] 2020-03-25 19:10:18.546 [main] Log - Scenario start point: Getting list of Students by Batch Number
+[INFO ] 2020-03-25 19:51:05.356 [main] Log - Scenario start point: Deleting student End to End scenario
+[INFO ] 2020-03-25 19:51:44.676 [main] Log - Scenario start point: Deleting student End to End scenario
+[INFO ] 2020-03-25 19:53:11.949 [main] Log - Scenario start point: Deleting student End to End scenario
+[INFO ] 2020-03-25 20:28:54.771 [main] Log - Scenario start point: Student creation with API E2E scenario
+[INFO ] 2020-03-25 20:46:41.918 [main] Log - Scenario start point: Student creation with API E2E scenario
+[INFO ] 2020-03-25 20:52:21.550 [main] Log - Scenario start point: Getting list of Students by Batch Number
+[INFO ] 2020-03-25 20:52:24.741 [main] Log - Scenario start point: Getting list of Students by Batch Number
+[INFO ] 2020-03-25 20:55:27.136 [main] Log - Scenario start point: Getting list of Students by Batch Number
