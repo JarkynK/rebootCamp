@@ -1,6 +1,6 @@
 package mentorings.tuesday.amazon;
 
-import utilities.DBUtility;
+// delete here   import utilities.DBUtility;
 
 import java.sql.SQLException;
 import java.util.List;
@@ -26,7 +26,7 @@ public class TestDBUtility {
 
 
 
-        DBUtility.createConnection();
+  /*delete     DBUtility.createConnection();
 
         List<Map<Object, Object>> mydata = DBUtility.executeQuery("select * from employees where employee_id = 175");
 
@@ -41,6 +41,6 @@ public class TestDBUtility {
 //                    System.out.println("ID: "+ map.get("EMPLOYEE_ID") + " Salary: "+map.get("SALARY") +" is verified!");
 //                }
 //            }
-//        }
+//        }    delete  */
     }
 }
